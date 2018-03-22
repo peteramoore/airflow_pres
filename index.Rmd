@@ -3,6 +3,7 @@ title: "Apache Airflow"
 output: 
   ioslides_presentation:
     highlight: pygments
+    widescreen: true
 ---
 
 ```{r setup, include=FALSE}
